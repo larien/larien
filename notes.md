@@ -11,4 +11,5 @@
 ### Maintainable
 
 [Anna Filina: Como toda decisão gera dívida técnica](./podcasts/1.md)
+
 [Jon Thornton: Dívida técnica (às vezes) é boa](./podcasts/45.md)
