@@ -1,9 +1,5 @@
-# notes
+# larien.dev
 
-Anotações em português brasileiro sobre conteúdos técnicos estudados.
+[study notes (pt-br)](notes.md)
 
-## Livros
-
-[O Programador Pragmático](./livros/o-programador-pragmatico.md) - David Thomas e Andrew Hunt
-
-[As Leis Fundamentais do Projeto de Software](livros/as-leis-fundamentais-do-projeto-de-software.md) - Max Kanat-Alexander
+![ALT: gif from Legend of Korra where Korra faces Lin](https://gist.githubusercontent.com/larien/4050edaf0384cb7340a28a4bb8a62519/raw/c168fff6d30571d4dea5474fa4a28b797547e7be/korra-lin.gif)
