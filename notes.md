@@ -13,3 +13,9 @@
 [Anna Filina: Como toda decisão gera dívida técnica](./podcasts/1.md)
 
 [Jon Thornton: Dívida técnica (às vezes) é boa](./podcasts/45.md)
+
+## Cursos
+
+[Go (Golang): The Complete Bootcamp](./cursos/golang-the-complete-bootcamp/README.md)
+
+[Refactoring - Sourcemaking](./cursos/refactoring-sourcemaking/README.md)

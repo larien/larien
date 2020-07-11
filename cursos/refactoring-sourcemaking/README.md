@@ -1,0 +1,1 @@
+Esse repositório foi criado para conter anotações de estudos para o curso de Refactoring da Sourcemaking
