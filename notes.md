@@ -19,3 +19,5 @@
 [Go (Golang): The Complete Bootcamp](./cursos/golang-the-complete-bootcamp/README.md)
 
 [Refactoring - Sourcemaking](./cursos/refactoring-sourcemaking/README.md)
+
+[Ardan Labs - Go Service](./cursos/ardan-labs-service/anotacoes.md)
