@@ -6,7 +6,7 @@
 
 [As Leis Fundamentais do Projeto de Software](livros/as-leis-fundamentais-do-projeto-de-software.md) - Max Kanat-Alexander
 
-WIP - [Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis](livros/x-ray.md)
+[Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis](livros/x-ray.md)
 
 ## Podcasts
 
